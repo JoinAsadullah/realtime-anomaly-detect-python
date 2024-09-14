@@ -61,7 +61,7 @@ This project successfully implements a real-time anomaly detection system that i
 
 ## Files Included
 
-- `anomaly_detection.py`: The main script that includes data stream generation, anomaly detection, and visualization.
+- `main.py`: The main script that includes data stream generation, anomaly detection, and visualization.
 - `requirements.txt`: A file containing the necessary dependencies.
 
 ## How to Run
